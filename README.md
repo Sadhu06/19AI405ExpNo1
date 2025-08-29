@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
+<h3>Name: Sadhana S</h3>
+<h3>Register Number : 212224230234 </h3>
 
 
 <h3>AIM:</h3>
@@ -40,3 +40,17 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
+
+PROGRAM
+
+<img width="498" height="710" alt="image" src="https://github.com/user-attachments/assets/3045af89-329e-4e51-8ee5-ff3737fe6679" />
+
+OUTPUT
+
+<img width="931" height="183" alt="image" src="https://github.com/user-attachments/assets/edde349c-1555-4d47-898f-b8df41749559" />
+
+RESULT
+
+Thus the solution for the given AI problem is found.
+
+
